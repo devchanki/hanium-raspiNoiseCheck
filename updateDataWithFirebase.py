@@ -22,5 +22,5 @@ while True:
         ref_id.push({
             'time': time.ctime(),
             'vib':tmp,
-        })
-        print("uploaded complete")
+    })
+    print("uploaded complete")
